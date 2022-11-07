@@ -1,0 +1,22 @@
+.universo{
+  padding: 63px 0 0 102px;
+  display: flex;
+  flex-direction: column;
+  gap: 16px;
+  max-width: 648px;
+  color: white;
+  font-family: 'Roboto', sans-serif;
+}
+
+.universo h1{
+  font-weight: 700;
+  font-size: 48px;
+  line-height: 125%;
+  color: #E1E1E6;
+}
+
+.universo p{
+  font-size: 18px;
+  font-weight: 400;
+  line-height: 29px;
+}

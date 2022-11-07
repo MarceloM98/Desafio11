@@ -1,0 +1,62 @@
+*{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body{
+  background-image: url(../assets/mountains-universe-1\ 1.png);
+  background-repeat: no-repeat;
+  background-size: cover;
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+}
+
+.homebg{
+  background-image: url(../assets/mountains-universe-1\ 1.png);
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+.oUniversobg{
+  background-image: url(../assets/mountains-universe-2.png);
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+.exploracaobg{
+  background-image: url(../assets/mountains-universe-3.png);
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+header{
+  display: flex;
+  align-items: center;
+  padding: 40px 0 0 72px;
+  gap: 33px;
+}
+nav{
+  display: flex;
+  gap: 32px;
+}
+
+nav a{
+  color: white;
+  text-decoration: none;
+  opacity: 0.7;
+  transition: .3s;
+}
+
+nav a:hover{
+  opacity: 1;
+  transform: scale(1.2);
+}
+
+#app{
+  height: 100%;
+  width: 100%;
+  flex-grow: 1;
+  display: flex;
+}
