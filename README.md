@@ -17,9 +17,9 @@ Projeto proposto pela rocketseat no modulo sobre javascript orientado a objeto e
 <br>
 
 <p align="center">
-  <img alt="Home" src="https://github.com/MarceloM98/Desafio10/raw/master/screenshots/home.png" width="100%">
-  <img alt="Exploração" src="https://github.com/MarceloM98/Desafio10/raw/master/screenshots/exploracao.png" width="100%">
-  <img alt="o Universo" src="https://github.com/MarceloM98/Desafio10/raw/master/screenshots/oUniverso.png" width="100%">
+  <img alt="Home" src="https://github.com/MarceloM98/Desafio11/raw/master/screenshots/home.png" width="100%">
+  <img alt="Exploração" src="https://github.com/MarceloM98/Desafio11/raw/master/screenshots/exploracao.png" width="100%">
+  <img alt="o Universo" src="https://github.com/MarceloM98/Desafio11/raw/master/screenshots/oUniverso.png" width="100%">
 </p>
 
 ## 🚀 Tecnologias
